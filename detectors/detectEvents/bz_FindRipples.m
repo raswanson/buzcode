@@ -128,7 +128,6 @@ plotType = p.Results.plotType;
 
 %% filter and calculate noise
 
-
 % Parameters
 windowLength = frequency/frequency*11;
 
